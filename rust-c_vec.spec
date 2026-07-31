@@ -5,8 +5,8 @@
 %global crate c_vec
 
 Name:           rust-%{crate}
-Version:        1.3.3
-Release:        3%{?dist}
+Version:        2.0.0
+Release:        1%{?dist}
 Summary:        Structures to wrap C arrays
 
 # Upstream license specification: Apache-2.0/MIT
